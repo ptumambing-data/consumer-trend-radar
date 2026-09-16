@@ -2,6 +2,10 @@
 
 An automated consumer trend intelligence pipeline built with n8n, PostgreSQL, GDELT, Python/JavaScript processing, and a local LLM.
 
+## System Architecture
+
+![Consumer Trend Radar Architecture](docs/consumer-trend-radar-architecture.png)
+
 ## Project Overview
 
 The Consumer Trend Radar was designed to reduce the manual effort required to identify, monitor, and evaluate emerging consumer trends from news and public data sources.
